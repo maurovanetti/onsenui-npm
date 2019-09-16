@@ -3,6 +3,7 @@
 @import url("./material-design-iconic-font/css/material-design-iconic-font.min.css");
 @import url("./font_awesome/css/font-awesome.min.css");
 @import url("./font_awesome/css/v4-shims.min.css");
+@import url("./custom-fonts/custom-fonts.css");
 
 ons-page, ons-navigator,
 ons-tabbar,
