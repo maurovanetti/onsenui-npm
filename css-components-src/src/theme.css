@@ -1,17 +1,17 @@
 
 :root {
   /* variables for iOS components */
-  --background-color: #efeff4;
+  --background-color: white;
   --text-color: #1f1f21;
   --sub-text-color: #999;
-  --highlight-color: #0076ff;
-  --second-highlight-color: #25a6d9;
+  --highlight-color: #cc3535;
+  --second-highlight-color: #cc5454;
   --border-color: #ccc;
   --button-background-color: var(--highlight-color);
   --button-cta-background-color: var(--second-highlight-color);
-  --toolbar-background-color: #fafafa;
+  --toolbar-background-color: #fcf8f8;
   --toolbar-button-color: var(--highlight-color);
-  --toolbar-text-color: #1f1f21;
+  --toolbar-text-color: #932525;
   --toolbar-border-color: #b2b2b2;
   --button-bar-color: var(--highlight-color);
   --button-bar-active-text-color: #fff;
@@ -63,7 +63,7 @@
   --fab-text-color: #ffffff;
   --fab-background-color: var(--highlight-color);
   --fab-active-background-color: color(var(--fab-background-color) a(70%));
-  --card-background-color: white;
+  --card-background-color: #fbeeee;
   --card-text-color: #030303;
   --toast-background-color: rgba(0, 0, 0, 0.8);
   --toast-text-color: white;
@@ -74,7 +74,7 @@
   /* variables for Material Design components */
   --material-background-color: #eceff1;
   --material-text-color: var(--text-color);
-  --material-notification-background-color: #e91e63;
+  --material-notification-background-color: #993333;
   --material-notification-color: white;
   --material-switch-active-thumb-color: #37474f;
   --material-switch-active-background-color: color(#37474f a(50%));
@@ -87,12 +87,12 @@
   --material-range-zero-thumb-color: #f2f2f2;
   --material-toolbar-background-color: #ffffff;
   --material-toolbar-text-color: #31313a;
-  --material-toolbar-button-color: #1e88e5;
+  --material-toolbar-button-color: #993333;
   --material-segment-background-color: #fafafa;
   --material-segment-active-background-color: #c8c8c8;
   --material-segment-text-color: color(black a(38%));
   --material-segment-active-text-color: #353535;
-  --material-button-background-color: #2979ff;
+  --material-button-background-color: #993333;
   --material-button-text-color: #ffffff;
   --material-button-disabled-background-color: color(#4f4f4f a(26%));
   --material-button-disabled-color: color(black a(26%));
@@ -107,7 +107,7 @@
   --material-radio-button-inactive-color: #717171;
   --material-radio-button-disabled-color: #afafaf;
   --material-text-input-text-color: #212121;
-  --material-text-input-active-color: #3d5afe;
+  --material-text-input-active-color: #993333;
   --material-text-input-inactive-color: #afafaf;
   --material-search-background-color: #fafafa;
   --material-dialog-background-color: #ffffff;
