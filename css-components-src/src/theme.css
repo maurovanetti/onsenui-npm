@@ -1,4 +1,3 @@
-
 :root {
   /* variables for iOS components */
   --background-color: white;
@@ -74,7 +73,7 @@
   /* variables for Material Design components */
   --material-background-color: #eceff1;
   --material-text-color: var(--text-color);
-  --material-notification-background-color: #bf6032;
+  --material-notification-background-color: #209b60;
   --material-notification-color: white;
   --material-switch-active-thumb-color: #37474f;
   --material-switch-active-background-color: color(#37474f a(50%));
@@ -87,12 +86,12 @@
   --material-range-zero-thumb-color: #f2f2f2;
   --material-toolbar-background-color: #ffffff;
   --material-toolbar-text-color: #31313a;
-  --material-toolbar-button-color: #bf6032;
+  --material-toolbar-button-color: #209b60;
   --material-segment-background-color: #fafafa;
   --material-segment-active-background-color: #c8c8c8;
   --material-segment-text-color: color(black a(38%));
   --material-segment-active-text-color: #353535;
-  --material-button-background-color: #bf6032;
+  --material-button-background-color: #209b60;
   --material-button-text-color: #ffffff;
   --material-button-disabled-background-color: color(#4f4f4f a(26%));
   --material-button-disabled-color: color(black a(26%));
@@ -107,7 +106,7 @@
   --material-radio-button-inactive-color: #717171;
   --material-radio-button-disabled-color: #afafaf;
   --material-text-input-text-color: #212121;
-  --material-text-input-active-color: #bf6032;
+  --material-text-input-active-color: #209b60;
   --material-text-input-inactive-color: #afafaf;
   --material-search-background-color: #fafafa;
   --material-dialog-background-color: #ffffff;
